@@ -1,6 +1,5 @@
 # Design Patterns
 <br/>
-
 ### 1. 참가자
 윤영민, 채한움
 <br>
