@@ -1,7 +1,8 @@
 package factory.FactoryMethod;
 
-public class FacNYPizzaStore extends FacPizzaStore{
+public class FacNYPizzaStore extends FacPizzaStore {
 
+	// 상속을 받아 제품을 만듬
 	@Override
 	public FacPizza createPizza(String type) {
 		FacPizza pizza = null;
